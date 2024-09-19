@@ -1,3 +1,7 @@
+#author : Peter K
+#Date : Sept 19th 2024
+#desc:Ask user their favourite artist
+
 #Ask user their favourite artist
 
 favourite_artist = input("enter the name of your favourite artist:")
